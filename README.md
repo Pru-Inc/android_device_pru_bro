@@ -1,4 +1,4 @@
-This repository contains common device configuration for Xiaomi sm6250-based devices
+This repository contains common device configuration for Pru ntk9900k-based devices
 
 ## Copyright
 

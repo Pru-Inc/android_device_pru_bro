@@ -1,0 +1,6 @@
+[
+  {
+    "repository": "android_kernel_pru_ntk9900k",
+    "target_path": "kernel/pru/ntk9900k"
+  }
+]
